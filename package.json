@@ -1,0 +1,13 @@
+{
+  "name": "coelho-poster-api",
+  "version": "1.0.0",
+  "description": "API para gerar posters do Restaurante Toca do Coelho",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.0.0"
+  }
+}
